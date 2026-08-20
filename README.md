@@ -1,2 +1,1 @@
-# Python-Skill-Up-
-Python 
+# Python-Skill-Up-Python 
